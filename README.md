@@ -5,7 +5,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](images/QR%20code%20component%20challenge.png)
+[image-qr-code](https://user-images.githubusercontent.com/105232846/196051727-fff819e5-a143-4bb7-90f2-92faf508a571.png)
+
 
 ### Links
 
