@@ -10,7 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I loved the favicon!
+I liked to position the main container using "display: flex".
 
 ### Continued development
 
