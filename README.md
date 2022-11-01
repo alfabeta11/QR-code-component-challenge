@@ -40,3 +40,4 @@ And understanding what colors palette I should use for my sites;
 
 - Frontend Mentor - [@alfabeta11](https://www.frontendmentor.io/profile/alfabeta11)
 - Codepen - [@alfa_soul](https://codepen.io/alfa_soul)
+- Instagram - [@barry_quiet](https://instagram.com/barry_quiet)
